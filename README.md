@@ -54,5 +54,6 @@ próximos passos:
   - usar arquivo ambisonics (pegar da nuvem - local pode suar baixado, web da nuvem)
   - pegar patch do professor
     - ele vai criar uma versao 3 pra receber um arquivo de audio
+    - hoje os patches (v1 e v2) estao no repositorio vsat-audience na pasta audios
 - eu sou fã de deixar o AFrame só pra fornecer as coordenadas, nao tocar o audio através dele. Continuar nativo no html assim como o pd4web faz.
 - pedir ajuda pra compilar tudo e pedir arquivo .pd para teste
