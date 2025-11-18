@@ -31,5 +31,18 @@ Diagrama de blocos do sistema: como é a arquitetura geral?
 - Banco de dados: Docker - base de dados que salva histórias/textos
 - 4 canais de áudio para o VSAT Audience
 
-
+### Apontamentos reunião presencial (18/11):
+- Discussão da integração pd4web com Audience e VSAT:
+  - Avaliação da viabilidade de implementar isso.
+  - Utilização de Container para reduzir ao máximo a latencia entre processamento de áudio pelo Audience e leitura pelo VSAT.
+  - Retorno de áudio atualizado a todo tempo pelo Audience e retornado para o VSAT.
+  - Browser tem muitas camadas de segurança que pode afetar a viabilidade da solução imaginada - limitação da API de áudio da web, que só aceita microfone ou áudio pronto: https://developer.mozilla.org/pt-BR/docs/Web/API/Web_Audio_API.
+  - Comentamos sobre a viabilidade de usar streaming. Precisa ver se AFrame tem suporte a esse tipo de renderização de áudio: https://aframe.io/.
+  - Outros links da reunião:
+    - https://charlesneimog.github.io/pd4web/js/js/
+    - https://www.researchgate.net/publication/395664963_Enabling_Interactive_Music_Performance_through_Web_Browsers_for_non-Programmers
+  - Streaming e Patches. Patch vem de conexão, é o arquivo do PD, 
+  - Planejamos fazer uma história de teste no VSAT.
+  - pd4web não nasceu pra converter esse som pra web?
+  - pd != pd4web. Audience é um "plugin" para pd. Uma ferramenta que usa pd.
 
