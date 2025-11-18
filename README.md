@@ -46,3 +46,7 @@ Diagrama de blocos do sistema: como é a arquitetura geral?
   - pd4web não nasceu pra converter esse som pra web?
   - pd != pd4web. Audience é um "plugin" para pd. Uma ferramenta que usa pd.
 
+
+próximos passos:
+- baixar ambos os repos (vsat e pd4web) e tentar fazer o merge dos dois.
+- pedir ajuda pra compilar tudo e pedir arquivo .pd para teste
