@@ -45,8 +45,14 @@ Diagrama de blocos do sistema: como é a arquitetura geral?
   - Planejamos fazer uma história de teste no VSAT.
   - pd4web não nasceu pra converter esse som pra web?
   - pd != pd4web. Audience é um "plugin" para pd. Uma ferramenta que usa pd.
+  - pd4web é como se fosse um tradutor. É como se fosse o Audience rodando na web.
+  - Duas alternativas: adaptar pd4web para poder receber áudio pronto. Ou adaptar Audience para gerir o player. 
 
 
 próximos passos:
 - baixar ambos os repos (vsat e pd4web) e tentar fazer o merge dos dois.
+  - usar arquivo ambisonics (pegar da nuvem - local pode suar baixado, web da nuvem)
+  - pegar patch do professor
+    - ele vai criar uma versao 3 pra receber um arquivo de audio
+- eu sou fã de deixar o AFrame só pra fornecer as coordenadas, nao tocar o audio através dele. Continuar nativo no html assim como o pd4web faz.
 - pedir ajuda pra compilar tudo e pedir arquivo .pd para teste
