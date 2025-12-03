@@ -60,3 +60,5 @@ próximos passos:
 - pedir ajuda pra compilar tudo e pedir arquivo .pd para teste
 
 <img width="1222" height="696" alt="image" src="https://github.com/user-attachments/assets/248aab58-6177-41f9-aff3-6e11c8cfb96d" />
+
+<img width="1239" height="694" alt="image" src="https://github.com/user-attachments/assets/3990eb37-b8cb-443d-b327-a0f123f5ef2b" />
