@@ -52,8 +52,11 @@ Diagrama de blocos do sistema: como é a arquitetura geral?
 próximos passos:
 - baixar ambos os repos (vsat e pd4web) e tentar fazer o merge dos dois.
   - usar arquivo ambisonics (pegar da nuvem - local pode suar baixado, web da nuvem)
+
   - pegar patch do professor
     - ele vai criar uma versao 3 pra receber um arquivo de audio
     - hoje os patches (v1 e v2) estao no repositorio vsat-audience na pasta audios
 - eu sou fã de deixar o AFrame só pra fornecer as coordenadas, nao tocar o audio através dele. Continuar nativo no html assim como o pd4web faz.
 - pedir ajuda pra compilar tudo e pedir arquivo .pd para teste
+
+<img width="1222" height="696" alt="image" src="https://github.com/user-attachments/assets/248aab58-6177-41f9-aff3-6e11c8cfb96d" />
