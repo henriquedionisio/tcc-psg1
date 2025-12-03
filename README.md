@@ -65,3 +65,6 @@ próximos passos:
 
 <img width="1225" height="689" alt="image" src="https://github.com/user-attachments/assets/8ce006b4-955c-4e92-b664-4feed98ac3fe" />
 
+tarefa com gustavo:
+<img width="1327" height="749" alt="image" src="https://github.com/user-attachments/assets/db8a11b3-4966-46d1-83df-2e06dc195c2e" />
+
