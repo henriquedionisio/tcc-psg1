@@ -62,3 +62,6 @@ próximos passos:
 <img width="1222" height="696" alt="image" src="https://github.com/user-attachments/assets/248aab58-6177-41f9-aff3-6e11c8cfb96d" />
 
 <img width="1239" height="694" alt="image" src="https://github.com/user-attachments/assets/3990eb37-b8cb-443d-b327-a0f123f5ef2b" />
+
+<img width="1225" height="689" alt="image" src="https://github.com/user-attachments/assets/8ce006b4-955c-4e92-b664-4feed98ac3fe" />
+
